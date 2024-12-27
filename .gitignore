@@ -1,0 +1,12 @@
+#*.jar
+.gradle/
+#gradlew
+#gradlew.bat
+target/
+history/
+build/
+.idea/
+.DS_Store
+/out
+
+/chrome_profile
